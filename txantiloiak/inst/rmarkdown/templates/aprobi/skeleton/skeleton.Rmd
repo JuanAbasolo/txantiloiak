@@ -1,0 +1,89 @@
+---
+title: "Estandarraren eragina aztertzeko metodologia"
+author: "Juan Abasolo, Aitor Iglesias, Aintzane Etxebarria, Ariane Ensunza"
+bibliography: references.bib
+csl: 'apa-euV0.2.csl'
+output: word_document
+abstract: Juanek idatzi Aitorren laguntzinoagaz. Aintzanek egurtu eta Naiak formatoa emon aldizkarirako
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Artikulu honetan azalduko da hizkeren mugimenduak aztertzeko metodologia bat, Korrespondentzia Anizkoitzen Analisian oinarritua, dialektometrian zabalpen handia duen distantzia linguistikoarekin koherentzia gordetzen duena eta, elementu linguistikoen identifikazioaz gain, bariazio dimentsioak kuantifikatzeko bidea ere eskaintzen duena. Horretarako, Arratia bailarako belaunaldi bitako hizkerak euskara estandarrarekiko egiten dituzten mugimenduak aztertu dira, alfabetizazioaren eragina identifikatu nahirik.
+
+Euskara dialektalizazio prozesu etengabean izan da mende askoan [AIPUA], orain eskolaren eta estandarraren eraginez, konbergentzia prozesuan ote den [AIPUA] ikertzeko proposamen metodologikoa egiten da artikulu honetan.
+
+Eskolatze prozesua nagusiki euskaraz egiten da Arratiako bailaran joan deneko urteetan [AIPUA], orain dela urte eta belaunaldi batzuk, berriz, ez zen horrela. 
+Lan honetan belaunaldi biren arteko konparaketa egiteko EASeko lagin bat eta erabili da.
+
+
+# Oinarritzea / Marko teorikoa
+
+Euskararen dialektalizazioa
+
+Euskara bantua eta eskola. Eskolako hizkuntza eta herri hizkeren eraginak.
+
+## Dialektometria Hizkuntza distantziak
+
+Zelan asmau zan [AIPUA Séguy ETA Goebl-edo]. Geolingusitikaren adar jaio, gaur bestelako ekarpenak egiten ditu.
+
+## Dialektometria, standardak eta herri hizkerak
+
+Hizkuntza estandarrak eta herri hizkerek elkar elikatzen dute. Baina orain dela 50 urte arte diasistema izan den horretan oinarritua sortu den hizkuntza estandarren eragina aztertzeak berezko interesa du. Are gehiago, euskarari buruz ari garenean Euskal Herrian. Estandarra dialektoetatik eraiki da, euskara estandarra euskalkietatik. Baina eta, zein eragin du euskara estandarrak herri hizkeretan? Zerk du eragin hori gauzatzen?
+
+Hizkuntza minorizatuaz ari gara euskaraz ari garenean, jakina denez, eta horretatik lortutako normalizatze pausuetan gorenekoak dira hedabideen presentzia eta hezkuntza sistemako zoko eta ibarretan ardatza izatea. Azken horren eragina zeharo mugatzerik ez badago ere, Euskal Atlas Soziolinguistikoak (EAS) neurri handian
+
+
+AIS-aren analisian Goeblek [AIPUA] italiera eta frantsez estandarretik herri hizkerek duten distantzia neurtzen du.
+
+Belaunaldi biren arteko distantzietan MDS analisien bitartez aztertu zuen Leinonen-ek [AIPUA 2014]. Leinonenen analisiek bateratze prozesua erakusten dute ezaugarri linguistiko batzuetan adinean behera egin ahala. Telebistaren eta eskolatzearen [...] 
+
+
+---
+
+Suediera: Therese Leinonen (2010) adina+suediera
+
+Italiera: AIS (Goebl), [wielingLexicalDifferencesTuscan2014] (Atlante Lessicale Toscano)
+
+Neederlandera / Dutch (?)
+
+Katalana (Vals et al 2018)
+
+# Metodologia
+
+
+
+## Dialectomería al uso
+
+Zelan egiten dan
+
+## MCA
+
+Zer dan ta zelan egiten dan
+
+## Datuak
+
+Nundik hartu dizen eta euron deskribapena
+
+# Emaitzak
+
+## Dialektometria al uso
+
+## MCA
+
+# Ondorioak
+
+Bariazioaren azalpenean
+
+# Erreferentziak
+
+
+
+
+
+
+
+
+

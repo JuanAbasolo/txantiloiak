@@ -1,6 +1,6 @@
 Package: txantiloiak
-Title: What the Package Does (one line, title case)
-Version: 0.0.0.9000
+Title: Txantiloiak sortzeko aprobak
+Version: 0.0.0.001
 Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
 Depends: R (>= 3.6.1)
