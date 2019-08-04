@@ -1,14 +1,20 @@
 ---
 title: "Estandarraren eragina aztertzeko metodologia"
-author: "Juan Abasolo, Aitor Iglesias, Aintzane Etxebarria, Ariane Ensunza"
+author: "Juan Abasolo"
 bibliography: references.bib
 csl: 'apa-euV0.2.csl'
-output: word_document
+output: html_document
 abstract: Juanek idatzi Aitorren laguntzinoagaz. Aintzanek egurtu eta Naiak formatoa emon aldizkarirako
 ---
 
 ```{r setup, include=FALSE}
+# define knitr options
 knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(warning = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+
+# set any missing NAs in tables to blank
+options(knitr.kable.NA = '')
 ```
 
 Artikulu honetan azalduko da hizkeren mugimenduak aztertzeko metodologia bat, Korrespondentzia Anizkoitzen Analisian oinarritua, dialektometrian zabalpen handia duen distantzia linguistikoarekin koherentzia gordetzen duena eta, elementu linguistikoen identifikazioaz gain, bariazio dimentsioak kuantifikatzeko bidea ere eskaintzen duena. Horretarako, Arratia bailarako belaunaldi bitako hizkerak euskara estandarrarekiko egiten dituzten mugimenduak aztertu dira, alfabetizazioaren eragina identifikatu nahirik.
@@ -16,7 +22,7 @@ Artikulu honetan azalduko da hizkeren mugimenduak aztertzeko metodologia bat, Ko
 Euskara dialektalizazio prozesu etengabean izan da mende askoan [AIPUA], orain eskolaren eta estandarraren eraginez, konbergentzia prozesuan ote den [AIPUA] ikertzeko proposamen metodologikoa egiten da artikulu honetan.
 
 Eskolatze prozesua nagusiki euskaraz egiten da Arratiako bailaran joan deneko urteetan [AIPUA], orain dela urte eta belaunaldi batzuk, berriz, ez zen horrela. 
-Lan honetan belaunaldi biren arteko konparaketa egiteko EASeko lagin bat eta erabili da.
+Lan honetan belaunaldi biren arteko konparaketa egiteko EASeko lagin bat eta erabili da [@rcoreteamLanguageEnvironmentStatistical2018a].
 
 
 # Oinarritzea / Marko teorikoa
