@@ -19,7 +19,7 @@ Instalagarriak izateko sortu dut (helburua txantiloien zerrendan hemengoak agert
 Instalau on-line zuzenean:
 
 ```R
-devtools::install_github('JuanAbasolo/txantiloiak')
+devtools::install_github('JuanAbasolo/txantiloiak/txantiloiak')
 ```
 
 Momentuz errore mezu batek urteten dau. *Don't worry, install happy*.
