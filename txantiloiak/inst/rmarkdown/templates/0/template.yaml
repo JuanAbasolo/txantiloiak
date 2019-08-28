@@ -1,4 +1,4 @@
-name: Beste aproba huts bat
+name: Beste aproba bat
 description: >
-  bib eta csl erabilita sortzeko ahalegina
+  bib eta csl erabilita PDF eta HTML-etan IPA kodeketi onartzen ditu. Taulen erreferentzia gurutzatuak be onartzen ditu
 create_dir: true

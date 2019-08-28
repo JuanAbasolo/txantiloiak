@@ -20,8 +20,6 @@ output:
     latex_engine: xelatex    
   bookdown::pdf_document2: #Erreferentzia gurutzatuak ere sartzeko
     latex_engine: xelatex
-  html_document:
-    df_print: paged
   bookdown::html_document2: #Erreferentzia gurutzatuak ere sartzeko
     fig_caption: yes
     number_sections: yes
