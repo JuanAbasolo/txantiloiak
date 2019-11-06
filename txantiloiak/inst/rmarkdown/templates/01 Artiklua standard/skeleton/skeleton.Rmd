@@ -1,0 +1,67 @@
+---
+title: "Izenburua"
+author: "Juan Abasolo"
+subtitle: 'Title'
+abstract: Laburpenaren testua, \' edo \" erako komatxoen artean idatzi behar da, karaktere bereziak baditu.
+keywords: keiguord batsuk, bertze bat, komaz banatuak, hizkuntza baten baino ez dira agertzen
+bibliography: references.bib
+csl: 'apa-euV0.2.csl'
+lang: eu
+output:
+  html_document:
+    # self_contained: false # Honek sortzen dau karpeta bat irudiakin
+    df_print: paged
+    self_contained: yes
+    theme: simplex
+    toc: yes
+    toc_float: yes
+    code_folding: hide 
+  pdf_document:
+    latex_engine: xelatex    
+  bookdown::pdf_document2: #Erreferentzia gurutzatuak ere sartzeko
+    latex_engine: xelatex
+  bookdown::html_document2: #Erreferentzia gurutzatuak ere sartzeko
+    fig_caption: yes
+    number_sections: yes
+    toc: yes
+    df_print: paged   
+  bookdown::word_document2: #Erreferentzia gurutzatuak ere sartzeko
+    # reference_docx: templates/plantilla_revista_Tejuelo_RMarkdown.docx  
+header-includes: \usepackage{fontspec} \setmainfont{Doulos SIL} #IPA arabera ere PDFn idazteko
+
+---
+
+```{r setup, include=FALSE}
+## define knitr options
+knitr::opts_chunk$set(echo = FALSE) # Aldatu HTMLn leitzia nahi bada
+knitr::opts_chunk$set(warning = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+
+## set any missing NAs in tables to blank
+options(knitr.kable.NA = '')
+```
+
+Artikulu honetan zerbait azalduko da
+
+R [@rcoreteamLanguageEnvironmentStatistical2018a] darabigu.
+
+# Oinarritzea / Marko teorikoa
+
+# Metodologia
+
+## Datuak
+
+# Emaitzak
+
+# Ondorioak
+
+# Erreferentziak
+
+
+
+
+
+
+
+
+

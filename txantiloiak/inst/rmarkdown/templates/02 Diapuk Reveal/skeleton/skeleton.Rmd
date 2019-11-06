@@ -1,0 +1,91 @@
+---
+title: "Izenburua"
+author: Urlia Artaburu de Çubipecoa
+date: '2019 - 11 - 27'
+bibliography: references.bib
+csl: 'apa-euV0.2.csl'
+lang: eu
+output:
+  revealjs::revealjs_presentation:
+    slide_level: 2
+    theme: white ## "default", "simple", "sky", "beige", "serif", "solarized", "blood", "moon", "night", "black", "league" or "white"
+    highlight: pygments ## "default", "tango", "pygments", "kate", "monochrome", "espresso", "zenburn", and "haddock"
+    center: true
+    transition: fade ## "default", "fade", "slide", "convex", "concave", "zoom" or "none"
+    self_contained: true
+    reveal_options:
+      # slideNumber: true
+      previewLinks: true
+    fig_width: 7
+    fig_height: 6
+    fig_caption: true
+    lib_dir: libs # Honek balio dau dependentzia guztiak toki bakarrean batzeko (orri asko erabiltzekotan)
+---
+```{r setup, include=FALSE}
+## define knitr options
+knitr::opts_chunk$set(echo = FALSE) # Aldatu HTMLn leitzia nahi bada
+knitr::opts_chunk$set(warning = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+
+## set any missing NAs in tables to blank
+options(knitr.kable.NA = '')
+```
+
+```{css echo=FALSE}
+body {
+    background-image: url(img/logo.png);
+    background-size: 25%;
+    background-repeat: no-repeat;
+    background-position: 3% 96%;
+}
+```
+
+
+
+R [@rcoreteamLanguageEnvironmentStatistical2018a] darabigu.
+
+## R Markdown
+
+<small>This sentence will appear smaller.</small>
+
+## Use a zoom transition {data-transition="zoom"}
+
+## Use a faster speed {data-transition-speed="fast"}
+
+## Fade in, Slide out {data-transition="slide-in fade-out"}
+
+## Slide in, Fade out {data-transition="fade-in slide-out"}
+
+## CSS color background {data-background=#ff0000}
+
+```
+## Full size image background {data-background="background.jpeg"}
+
+## Video background {data-background-video="background.mp4"}
+
+## Embed a web page as a background {data-background-iframe="https://example.com"}
+```
+
+## Notak erabiltzeko modua
+
+Here is some content...
+
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+## Slide with R Code and Output {data-background-color="#ff0000"}
+
+```{r}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+## Erreferentziak

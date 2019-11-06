@@ -42,5 +42,6 @@ Momentuz errore mezu batek urteten dau. *Don't worry, install happy*.
 ## ToDo
 
 - [ ] Irudiak gehitzeko modua aurkitu
+- [ ] Gako hitzak / Keywordak eta laburpena / abstract-a hizkuntza batean baino gehiagotan idazteko bidea aurkitu.
 - [x] `.csl` fitxategiak eta `.bib` fitxategiak gehitzeko modua aurkitu
 
