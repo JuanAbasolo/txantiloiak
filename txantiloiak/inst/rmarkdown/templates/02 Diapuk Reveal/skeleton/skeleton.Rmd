@@ -7,12 +7,13 @@ csl: 'apa-euV0.2.csl'
 lang: eu
 output:
   revealjs::revealjs_presentation:
-    slide_level: 2
-    theme: white ## "default", "simple", "sky", "beige", "serif", "solarized", "blood", "moon", "night", "black", "league" or "white"
-    highlight: pygments ## "default", "tango", "pygments", "kate", "monochrome", "espresso", "zenburn", and "haddock"
+    slide_level: 3
+    theme: simple ## "default", "simple", "sky", "beige", "serif", "solarized", "blood", "moon", "night", "black", "league" or "white"
+    highlight: kate ## "default", "tango", "pygments", "kate", "monochrome", "espresso", "zenburn", and "haddock"
     center: true
     transition: fade ## "default", "fade", "slide", "convex", "concave", "zoom" or "none"
     self_contained: true
+    progress: true
     reveal_options:
       # slideNumber: true
       previewLinks: true
@@ -21,6 +22,7 @@ output:
     fig_caption: true
     lib_dir: libs # Honek balio dau dependentzia guztiak toki bakarrean batzeko (orri asko erabiltzekotan)
 ---
+
 ```{r setup, include=FALSE}
 ## define knitr options
 knitr::opts_chunk$set(echo = FALSE) # Aldatu HTMLn leitzia nahi bada
@@ -44,7 +46,9 @@ body {
 
 R [@rcoreteamLanguageEnvironmentStatistical2018a] darabigu.
 
-## R Markdown
+# R Markdown
+
+## dabigu
 
 <small>This sentence will appear smaller.</small>
 
